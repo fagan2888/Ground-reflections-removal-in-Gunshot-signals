@@ -12,7 +12,7 @@ MinPeakHeight = 0.1
 # number of repetitive corrections to be applied to reduce reflection artifact
 MaxCorrIter = 4
 
-x, sr = librosa.load('/home/administrator/Downloads/ML_work/Gunshot_detection_CNN/Rifle_carbine.mp3')
+x, sr = librosa.load('/home/administrator/Downloads/ML_work/Gunshot_detection_CNN/Rifle_carbine.mp3') # Path of mp3 file
 
 class EventReflection(object):
     """ obj = EventReflection(x,options)
