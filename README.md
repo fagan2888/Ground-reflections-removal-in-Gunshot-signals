@@ -1,6 +1,6 @@
 # Ground-reflections-removal-in-Gunshot-signals
 
-Given the array of acoustic signals, Function is build in both Python and MATLAB to remove the ground reflections.
+Given the array of acoustic signals, Function is build in both **Python** and **MATLAB** to remove the ground reflections.
 
 **Basic concept**
 
