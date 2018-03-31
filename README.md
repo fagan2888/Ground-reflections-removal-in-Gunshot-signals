@@ -8,6 +8,8 @@ An autocorrelation-based method is introduced to estimate the parameters of lag 
 
 For given values of the delay between lead and lag, T and r, the filter ( function of r and T) can eliminate the lag from the total signal.This deconvolution filter converges quickly and only a few filter coefficients are needed to remove the reflected signal effectively from the total signal.
 
+**Note** - We assume that Events is detected (using event detection repository) and save as pqfile.txt
+
 
 
 
